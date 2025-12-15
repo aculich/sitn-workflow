@@ -1,0 +1,7 @@
+# Generated output files - can be regenerated with scripts
+output/
+
+# Temporary files
+*.tmp
+*.bak
+
