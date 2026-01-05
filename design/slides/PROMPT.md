@@ -1,5 +1,9 @@
 PROMPT.md
 
+# Meta-Prompt
+First, create a better version of this prompt ramble below, turning it into a better prompt with clear intent and outcomes, then generate a full plan to create the cli tool that will generate pixel-perfect slide deck reconstructions given a PDF or PPTX (or even images) input.
+
+# Ramble
 I want to be able to do a pixel-perfect reconstruction of these PDFs into a fully working PowerPoint slide deck. So, let's start by finding a way to slice and dice each of these PDF files and each of the pages in the PDFs into their own self-contained pages.
 
 /Users/me/projects/peeq-crb-nexus/sitn-workflow/design/slides
@@ -29,3 +33,5 @@ Look at all the code and projects and repo in these directories and their subdir
 /Users/me/projects/fspp-ai-retsina/slideflow
 
 You can use repomix to help or anything else that would be a useful tool to deconstruct, analyze, reconstruct as close to pixel-perfect reconstruction as possible.
+
+# Prompt
